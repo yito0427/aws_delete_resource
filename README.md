@@ -1,0 +1,2 @@
+# aws_delete_resource
+awsリソースを自動で削除するためのツール群。サービス別に作成
